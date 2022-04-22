@@ -1,0 +1,7 @@
+
+#1 BeautifulSoup
+pip install bs4
+
+#2 progressbar
+pip install progressbar
+
